@@ -1,4 +1,4 @@
-module swvl.com/notifications_worker
+module github.com/youssef1337/notifications_worker
 
 go 1.13
 
